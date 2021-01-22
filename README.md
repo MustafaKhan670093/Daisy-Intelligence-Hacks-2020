@@ -85,9 +85,6 @@ game server should you find them useful in your solution:
 - pytorch
 - keras
 
-If you wish to use other modules, please contact Daisy and request
-it. It should be possible to install most open-source modules as needed.
-
 ### Run examples
 
 The script `site_location.py` contains all code needed to set up and run a game.
@@ -104,34 +101,7 @@ This will play the specified players against each other, log results to the
 screen and create a game report directory (by default in the current working
 directory as "game").
 
-### Creating your own AI
-
-Create a module importing site_location.py. Create a player class inheriting
-from `SiteLocationPlayer`. The function `place_stores` must be overridden.
-
-See `example_players.py` for the examples. 
-
-### Code submission
-
-To submit code for competition use the script `./submit.py`. For example, to submit the
-`RandomPlayer` class from `example_players.py`:
-
-```
-./submit.py --token <token> --player-class example_players:RandomPlayer --files example_players.py
-```
-
-If a solution requires extra files, the `--files` argument can accept additional arguments.
-
-Your team will receive a token via email.
-
-This will provide a message upon successful submission, or a reason for a
-rejected submission. During submission some basic tests will be run to ensure
-that the submission will run correctly.
-
-In addition to submitting code through submit.py, please also submit the
-complete set of source code and presentation materials to hackathon@daisyintel.com.
-
-## Competition
+## Competition 
 
 The tournament structure will be as follows:
 
@@ -151,25 +121,6 @@ Other teams will be ranked according to their scores in the final and previous r
 
 Practice tournaments will be run every 3 hours. The final tournament will occur
 after the final submission deadline.
-
-## Hackathon Judging
-
-The teams who place in the top five from the final tournament will
-automatically be invited to make a presentation to the judges. In addition,
-after reviewing the submissions judges may decide to invite additional teams if
-their solutions are particularly interesting.
-
-The presentation should be approximately 10 minutes long, and summarize the
-following information:
-
-- description of the algorithm used to play the game
-- summary of the development and testing process
-- issues that were encountered, and how they were overcome
-- how the algorithm might be improved upon given more time
-
-Final placement will be determined by the Daisy judges based on a review of the
-submitted solution, performance in the tournament, and quality of the
-presentation.
 
 ## Included software
 
