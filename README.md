@@ -1,6 +1,16 @@
-# Daisy Hackathon 2021  - Site Location Game
+<a href="https://github.com/MustafaKhan670093/3D-Resnet-Research-UTMIST/blob/main/README.md#3d-resnets-research--utmist-">
+    <img src="Images/ml-playbook.png" alt="The ML Playbook" title="The ML Playbook" align="right" height="80" />
+</a>
 
-![example map](./game_example.png)
+# Daisy Hackathon 2021 🌼
+
+Daisy Hackathon 2021 was a 24 hour programming challenge that took place between Jan. 9th to 10th, 2021. The objective was to create an intelligent agent that would win in a site location game that simulated the competitive environment of the retail sector. My team and I were finalists in this hackathon. 
+
+This is the [pitch deck](https://docs.google.com/presentation/d/1EwO9AxeSVlUpmBd8_6m_L8CPLahBAYIsgrKj5uxdRUI/edit?usp=sharing) which explains our development process as well as how the algorithm we developed works and the following is a demo of our agent (in Red) making strategic plays in a ten move game.
+
+<p align="center">
+  <img src="Images/game-in-action.gif" alt="demo game" title="demo game" height="300" /> 
+</p>
 
 ## Game overview
 
