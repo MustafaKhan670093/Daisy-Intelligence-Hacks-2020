@@ -1,5 +1,5 @@
 <a href="https://github.com/MustafaKhan670093/3D-Resnet-Research-UTMIST/blob/main/README.md#3d-resnets-research--utmist-">
-    <img src="Images/daisy-border.png" alt="Daisy Hackathon 2021" title="Daisy Hackathon 2021" align="right" height="100" />
+    <img src="Images/daisy-border.png" alt="Daisy Hackathon 2021" title="Daisy Hackathon 2021" align="right" height="90" />
 </a>
 
 # Daisy Hackathon 2021 🌼
